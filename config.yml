@@ -1,0 +1,5 @@
+PluginPrefix: '&8[&eBlockAntiSpam&8]'
+
+PermToByPass: 'blockantispam.bypass' #Players with this permission does not get error messages.
+MaxBlockPerSecond: 10
+ErrorMessage: '%prefix% &cYou cannot place more than &d%block-amount% &cblocks every second.'

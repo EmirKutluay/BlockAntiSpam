@@ -1,0 +1,5 @@
+name: BlockAntiSpam
+main: com.emiv.blockantispam.Main
+version: 1.0
+description: This plugin is for preventing spamming blocks!
+author: EmirKutluay
